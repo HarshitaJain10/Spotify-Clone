@@ -26,15 +26,6 @@ This project replicates the UI of Spotify’s web interface with a modern and cl
 
 ---
 
-## 📂 Project Structure
-
-spotify-clone/
-│── index.html  
-│── style.css  
-│── assets/  
-
----
-
 ## 📸 Preview
 
 This project recreates:
